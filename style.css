@@ -1,0 +1,43 @@
+body
+{
+    margin:0;
+    :800px;
+    text-align:center;
+}
+
+
+.perfil
+{
+    border-radius:50%;
+    width:50%
+    }
+
+
+    .menu
+    {
+
+        position:fixe;
+        background:blue
+        width:100%
+        margin-top:0px;
+        top: 0px;
+        z-index: 10px;
+
+    }
+
+    .enlaces
+    {
+        float:left;
+        padding-top: 5px;
+        padding-left:9px;
+        padding-right:9px;
+        padding-bottom:9px;
+        font-family:fantasy;
+        font-size:20 px;
+    }
+
+    #titulo
+    {
+        font-family:cambria;
+        font-size:20px;
+    }
